@@ -10,6 +10,9 @@
 
 ![AWS Cli](./img/AWSCLI.png)
 
+### Billing Alarm
+![Billing Alarm](./img/billingAlarm.png)
+
 ### Rereating Logical Diagram using Lucid Charts: Done
 ![Chart](./img/Logicaldesign.png)
 
